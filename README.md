@@ -2,7 +2,7 @@
 
 Software Engineer 🎓, I like to solve problems using code.
 
-Working for Globant as a Python Developer 🐍.
+Working for European Bioinformatic Institute as a Scientific Data Engineer 🐍.
 Living in Cali, Colombia 🇨🇴.
 
 Working on/Interesed in:
