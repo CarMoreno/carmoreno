@@ -3,7 +3,8 @@
 Software Engineer 🎓, I like to solve problems using code.
 
 Working for European Bioinformatic Institute as a Scientific Data Engineer 🐍.
-Living in Cali, Colombia 🇨🇴.
+
+Living in Cali, Colombia :colombia:
 
 Working on/Interesed in:
 
