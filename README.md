@@ -2,7 +2,7 @@
 
 Software Engineer 🎓, I like to solve problems using code.
 
-Working for European Bioinformatic Institute as a Scientific Data Engineer 🐍.
+Working for EMBL-EBI as a Scientific Data Engineer 🐍.
 
 Living in Cali, Colombia :colombia:
 
