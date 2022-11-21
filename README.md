@@ -2,7 +2,7 @@
 
 Software Engineer 🎓, I like to solve problems using code.
 
-Working for EMBL-EBI as a Scientific Data Software Engineer 🐍.
+Working for the [EMBL-EBI](https://www.ebi.ac.uk) as a Scientific Data Software Engineer 🐍 in the [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi) project.
 
 Living in Cambridge, UK 🇬🇧 from 🇨🇴
 
