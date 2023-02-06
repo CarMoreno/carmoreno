@@ -7,11 +7,11 @@ Working for the [EMBL-EBI](https://www.ebi.ac.uk) as a Scientific Data Software 
 Living in Cambridge, UK 🇬🇧 from 🇨🇴
 
 Working on/Interesed in:
-
-- :mag_right: Data Analysis. 
+ 
+- 🧹 Clean Code.
 - 🛠️ ETL Processes.
-- 👨‍💻 Web development.
 - :nut_and_bolt: Data Engineering.
+- 👨‍💻 Web development.
 - 🤹‍♂️ Python & Data Enthusiast.
 - 📫 How to reach me: carmoreno.jpg@gmail.com
 
