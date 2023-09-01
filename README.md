@@ -2,7 +2,7 @@
 
 Software Engineer 🎓, I like to solve problems using code.
 
-Working for the [EMBL-EBI](https://www.ebi.ac.uk) as a Scientific Data Software Engineer 🐍 in the new version of the [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi/chebi-2.0) project.
+Working for the [EMBL-EBI](https://www.ebi.ac.uk) as a Scientific Data Engineer 🐍 in the new version of the [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi/chebi-2.0) project.
 
 Studying a Master degree in Data Science at [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html). 📚
 
