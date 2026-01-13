@@ -2,11 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=CarMoreno&label=Profile%20views&color=blue&style=flat)
 
-Software Engineer 🎓, I like to solve problems using code.
+Sr. Software Engineer 🎓, MSc Data Science 📊. I like to solve problems using code.
 
 Working for the [EMBL-EBI](https://www.ebi.ac.uk) as a Scientific Data Engineer 🐍 in the new version of the [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi/chebi-2.0) project.
-
-Studying a Master degree in Data Science at [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/index.html). 📚
 
 Living in England, UK 🇬🇧 from 🇨🇴
 
