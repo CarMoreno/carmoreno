@@ -4,7 +4,7 @@
 
 Sr. Software Engineer 🎓, MSc Data Science 📊. I like to solve problems using code.
 
-Working for the [EMBL-EBI](https://www.ebi.ac.uk) as a Scientific Data Engineer 🐍 in the new version of the [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi/chebi-2.0) project.
+Working for the [EMBL-EBI](https://www.ebi.ac.uk) as a Scientific Data Engineer 🐍 for [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi/chebi-2.0), [UniChem](https://www.ebi.ac.uk/unichem/) and [SureChEMBL](https://surechembl.org) projects.
 
 Living in England, UK 🇬🇧 from 🇨🇴
 
